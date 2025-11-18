@@ -164,7 +164,7 @@ body {
 /* UPDATED: Next Test Button Style */
 .btn-link {
     background-color: #004d4d;
-    color: white;
+    color: white ! important;
     width: 180px; /* Reduced width */
     padding: 3px 10px;
 }
